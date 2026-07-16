@@ -21,7 +21,7 @@ Sebuah game akuatik 3D sederhana yang dibangun di atas **Alice 3** kendalikan ik
 
 **Fish Game Alice** adalah game edukatif bertema kehidupan bawah laut yang dikembangkan menggunakan **Alice 3**, sebuah lingkungan pemrograman visual berbasis Java yang dirancang untuk memperkenalkan konsep object-oriented programming melalui animasi 3D interaktif.
 
-Pemain berperan sebagai seekor ikan besar yang menjelajahi terumbu karang. Tugasnya sederhana namun menegangkan: **makan ikan yang lebih kecil untuk mendapatkan poin**, sambil **menghindari ancaman dari ikan predator (hiu)** yang mengintai di sekitar area bermain. Setiap kesalahan — baik memakan objek yang salah maupun tersentuh musuh akan mengurangi nyawa pemain hingga permainan berakhir.
+Pemain berperan sebagai seekor ikan besar yang menjelajahi terumbu karang. Tugasnya sederhana namun menegangkan: **makan ikan yang lebih kecil untuk mendapatkan poin**, sambil **menghindari ancaman dari ikan predator (hiu)** yang mengintai di sekitar area bermain. Setiap kesalahan baik memakan objek yang salah maupun tersentuh musuh akan mengurangi nyawa pemain hingga permainan berakhir.
 
 Proyek ini merupakan hasil pengerjaan tugas mata kuliah **Pemrograman Berorientasi Objek (PBO)**, sekaligus eksplorasi kreatif dalam merancang dunia 3D, logika permainan, dan pengalaman visual yang imersif menggunakan Alice.
 
